@@ -1,6 +1,6 @@
 The original organization for this repo is gone, This is the latest verion of the source code that was available as of 7/23/2026
 
-If you have any issues I will do my best effort, in maintaining the code base, however I will not be actively maintaining. please feel free to open an issue and give me details on the problem and I will do my best to correct it.
+If you have any issues I will do my best effort in maintaining the code base, however I will not be actively maintaining unless I run into issues on games I play (cs2) please feel free to open an issue and give me details on the problem and I will do my best to correct it.
 
 # Source2Gen
 
